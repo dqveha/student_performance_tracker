@@ -26,7 +26,7 @@
 
 ## Description
 
-A web application designed to track student scores on various tests over their time at the school. This implementation was inspired by a school's usage of a Google Spreadsheet for their tracking instead of an in-house website application. The end goal was to replicate and design a website that the school would consider implementing over their current spreadsheet. The majority of the features within the spreadsheet were replicated within this project and includes additional features such as:
+A web application designed to track student scores on various tests over their time at the school. This implementation was inspired by a school's usage of a Google Spreadsheet for their tracking. The end goal was to replicate and design a website that the school would consider implementing over their current spreadsheet. The majority of the features within the spreadsheet were replicated within this project and includes additional features such as:
   * User activation and authentication
     * Activating/Deactivating students and teachers
   * Average values of students' scores
